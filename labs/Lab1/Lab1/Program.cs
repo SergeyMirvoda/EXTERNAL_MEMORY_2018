@@ -10,9 +10,41 @@ namespace Lab1
 {
     class Program
     {
+        public class ListItem<T>
+        {
+            public ListItem(T value)
+            {
+                Value = value;
+            }
+            public T Value { get; private set; }
+            public ListItem<T> Next { get; set; }
+
+        }
         static void Main(string[] args)
         {
-            var count = 1_000_000 * 100;
+            var count = 1_000_000 * 200;
+
+            ListItem<int> head = null;
+            ListItem<int> current = null;
+            for (int index = 1; index < count; index++)
+            {
+                if (head == null)
+                {
+                    head = current = new ListItem<int>(index);
+                }
+                else
+                {
+                    current.Next = new ListItem<int>(index);
+                    current = current.Next;
+                }
+            }
+
+            Debugger.Break();
+            var list = new decimal[count];
+            for (int i = 0; i < count; i++)
+            {
+                list[i] = i;
+            }
 
             //Генерилка тестовых данных
             //using (var file1 = new StreamWriter("100m.txt"))
