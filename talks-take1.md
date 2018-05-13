@@ -45,8 +45,9 @@
 9 Schulze M. A new monotonic, clone-independent, reversal symmetric, and condorcet-consistent single-winner election method //Social Choice and Welfare. – 2011. – Т. 36. – №. 2. – С. 267-303.  
 10 Bearden J. N. A new secretary problem with rank-based selection and cardinal payoffs //Journal of Mathematical Psychology. – 2006. – Т. 50. – №. 1. – С. 58-59.  
 11 Benford F. The law of anomalous numbers //Proceedings of the American philosophical society. – 1938. – С. 551-572.'  
-12 McCabe J. On serial files with relocatable records //Operations Research. – 1965. – Т. 13. – №. 4. – С. 609-618.
-13 https://www.emsec.rub.de/media/crypto/attachments/files/2011/04/becker_1.pdf
+12 McCabe J. On serial files with relocatable records //Operations Research. – 1965. – Т. 13. – №. 4. – С. 609-618.  
+13 https://www.emsec.rub.de/media/crypto/attachments/files/2011/04/becker_1.pdf  
+
 
 
 
