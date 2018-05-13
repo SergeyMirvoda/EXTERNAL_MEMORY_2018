@@ -5,7 +5,7 @@
 допустимы любые источники, кроме википедии
 
 
-# Список докладов (4 шт.)
+# Список докладов (5 шт.)
 
 
 Агоритм Беллмана-Форда [2, 1, 3, 4]
@@ -26,7 +26,13 @@
  - Задача о разборчивой невесте (Задача о секретаре) [10]
  - Самоорганизующийся поиск 
  - Закон Бенфорда [11]
- 
+
+Цифровые подписи [13]
+ - Понятие хэширования и назначение хэша
+ - Одноразовые подписи -- назначение и виды
+ - Подпись Лэмпорта
+ - Подпись Меркла
+ - Деревья меркла
  
 1 Richard Bellman. On a routing problem.  Quarterly of Applied Mathematics Vol. 16, No. 1 (APRIL, 1958), pp. 87-90  
 2 Ford Jr L. R. Network flow theory. – RAND CORP SANTA MONICA CA, 1956. Paper P-923.  
@@ -39,7 +45,8 @@
 9 Schulze M. A new monotonic, clone-independent, reversal symmetric, and condorcet-consistent single-winner election method //Social Choice and Welfare. – 2011. – Т. 36. – №. 2. – С. 267-303.  
 10 Bearden J. N. A new secretary problem with rank-based selection and cardinal payoffs //Journal of Mathematical Psychology. – 2006. – Т. 50. – №. 1. – С. 58-59.  
 11 Benford F. The law of anomalous numbers //Proceedings of the American philosophical society. – 1938. – С. 551-572.'  
-12 McCabe J. On serial files with relocatable records //Operations Research. – 1965. – Т. 13. – №. 4. – С. 609-618.  
+12 McCabe J. On serial files with relocatable records //Operations Research. – 1965. – Т. 13. – №. 4. – С. 609-618.
+13 https://www.emsec.rub.de/media/crypto/attachments/files/2011/04/becker_1.pdf
 
 
 
